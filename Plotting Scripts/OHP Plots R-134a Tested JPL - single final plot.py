@@ -11,7 +11,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 import math
 
-import OHP_Operational_Limits_Calculator_Methods_JPL_Testing as Methods
+import OHP_Operational_Limits_Calculator_Methods_Constant_Cold_Plate_Temp as Methods
 
 # %% Parameters input section
 # The following are constants that must be introduced by the users depending
