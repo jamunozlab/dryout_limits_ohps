@@ -2,8 +2,7 @@
 """
 Created on Fri Feb 11 14:43:48 2022
 
-@authors: Cesar Diaz, Ben Furst, Jorge Muñoz, Richard Otis, Takuro Daimaru, 
-Scott Roberts
+@authors: Cesar Diaz, Ben Furst, Jorge Muñoz, Takuro Daimaru, Scott Roberts
 
 cesar.dc1509@gmail.com, ben.i.furst@jpl.nasa.gov, jamunoz@utep.edu, 
 takuro.daimaru@jpl.nasa.gov, scott.n.roberts@jpl.nasa.gov
@@ -32,9 +31,13 @@ declared functions can be numpy arrays of any amount of elements, as required
 per used needs.
 
 References:
-Drolen, Bruce L., and Christopher D. Smoot. "Performance limits of oscillating 
+- Drolen, Bruce L., and Christopher D. Smoot. "Performance limits of oscillating 
 heat pipes: Theory and validation." Journal of Thermophysics and Heat Transfer 
 31.4 (2017): 920-936.
+- Diaz-Caraveo, C., Wolk, K., Miesner, S., Montemayor, M., Rodriguez, A., Kumar, V., 
+Muñoz, J.A., Daimaru, T., Furst, B.I., & Roberts, S. N. Performance-Dryout Limits 
+of Oscillating Heat Pipes: A Comprehensive Theoretical and Experimental Determination. 
+Journal of Thermophysics and Heat Transfer, 1-11 (2024).
 
 """
 
