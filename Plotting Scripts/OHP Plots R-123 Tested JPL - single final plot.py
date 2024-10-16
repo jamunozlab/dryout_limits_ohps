@@ -2,7 +2,7 @@
 """
 Created on Mon Apr  4 10:36:47 2022
 
-@author: cdiazcarav
+@author: Cesar Diaz-Caraveo
 """
 
 import sys
@@ -10,10 +10,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 import math
 
-
-# Adding Methods Code main folder to the system path for importing
-sys.path.append("C:/Users/Cesar/OneDrive - Stanford/Documents/AA-NASA-JPL/OHP_Limits_Calculator_Methods_Code")
-import OHP_Operational_Limits_Calculator_Methods_JPL_Testing as Methods
+import OHP_Operational_Limits_Calculator_Methods_Constant_Cold_Plate_Temp as Methods
 
 #%% Parameters input section 
 # The following are constants that must be introduced by the users depending 
