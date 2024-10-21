@@ -1569,7 +1569,7 @@ props = dict(boxstyle='round', facecolor='white', edgecolor='gray', alpha=0.5)
 #%% 18.- Additional/Supportive Methods
 
 '''Condenser temperatures calculation based on the experimental results obtained
-   with R-134a. Calculation of a condenser temperature value is based on a 
+   with R-134a and R-123. Calculation of a condenser temperature value is based on a 
    polynomial fit of order 3 from the average condenser temperature vs the 
    adiabatic temperature. At temperatures above 65 C for R-134a and 110 for R-123, 
    it is changed for a linear fit, as the few data available makes the polynomial 
